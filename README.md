@@ -121,5 +121,4 @@ If you're on the defending side of this:
 This tool is published for **education** and for **authorised** security testing — your own lab environments, HTB/CTF targets, or systems you have explicit written permission to assess. Unauthorised access to computer systems is a crime under laws such as the UK Computer Misuse Act 1990, the US Computer Fraud and Abuse Act, and equivalents elsewhere. You are solely responsible for how you use it. The author accepts no liability for misuse or for any damage caused.
 
 ## License
-
-Suggested: [MIT](https://opensource.org/license/mit) — common for security PoCs. Pick whatever fits your portfolio; add a `LICENSE` file before publishing.
+MIT
